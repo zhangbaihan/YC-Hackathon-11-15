@@ -5,7 +5,7 @@ from __future__ import annotations
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
-from fastapi.responses import PlainTextResponse
+from fastapi.responses import FileResponse, PlainTextResponse
 
 from app.schemas import FileIngestionRequest, ProcessedResponse
 from app.services import (
@@ -95,5 +95,17 @@ def serve_commerce_txt() -> PlainTextResponse:
     return PlainTextResponse(
         markdown,
         media_type="text/markdown; charset=utf-8",
+        headers={"Cache-Control": "no-cache"},
+    )
+
+
+@app.get("/robots.txt", include_in_schema=False)
+def robots_txt() -> FileResponse:
+    robots_path = PROJECT_ROOT / "robots.txt"
+    if not robots_path.exists():
+        raise HTTPException(status_code=404, detail="robots.txt not found")
+    return FileResponse(
+        robots_path,
+        media_type="text/plain; charset=utf-8",
         headers={"Cache-Control": "no-cache"},
     )
