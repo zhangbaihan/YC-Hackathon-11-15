@@ -51,20 +51,21 @@ Example response excerpt:
 - `app/services/ingestion.py` — File ingestion utilities.
 - `app/services/compression.py` — Markdown compression pipeline.
 - `app/services/jcrew_parser.py` — Parser that extracts products from a saved J.Crew PLP HTML page.
-- `app/services/effulgent_parser.py` — Parser that reads the Cozy Knits (Netlify) JS bundle.
+- `app/services/effulgent_parser.py` — Parser that reads the Cozy Knits (mockup-merchant) JS bundle.
 - `app/services/pipeline.py` — Glue helpers that parse a PLP snapshot and emit markdown.
 - `scripts/generate_commerce.py` — CLI helper (`uv run python scripts/generate_commerce.py`) to rebuild artifacts.
 - `data/sample_products.json` — Example data stub for quick manual testing.
 - `data/jcrew_mens_sweaters.html` — Saved source HTML for the current J.Crew mens sweaters category.
 - `data/commerce_jcrew.txt` — The generated markdown served as `/jcrew/commerce.txt`.
 - `data/commerce_cozy_knits.txt` — The generated markdown served as `/cozyknits/commerce.txt`.
-- `data/effulgent_catalog.html` — Saved Cozy Knits landing page (for reference).
-- `data/assets/main-B9P2jWt9.js` — Bundled Cozy Knits product data consumed by `EffulgentParser`.
+- `data/mockup_merchant.html` — Saved Cozy Knits landing page (for reference).
+- `data/assets/mockup_app_page.js` — Bundled Cozy Knits product data consumed by `EffulgentParser`.
 
 ## Using uv for day-to-day tasks
 - `uv sync --group dev` — install runtime + dev dependencies into `.venv` (or just run `uv sync` if you already have dev dependencies enabled globally).
 - `uv run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000` — launch the API with hot reload.
-- `uv run python scripts/generate_commerce.py -- --limit 10` — regenerate `data/commerce_jcrew.txt` (pass script args after `--`; include `--source data/assets/main-B9P2jWt9.js --output data/commerce_cozy_knits.txt` for the Netlify snapshot).
+- `uv run python scripts/generate_commerce.py -- --limit 10` — regenerate `data/commerce_jcrew.txt` (pass script args after `--`; include `--source data/assets/mockup_app_page.js --output data/commerce_cozy_knits.txt` for the Cozy Knits snapshot).
+- Each `/jcrew/commerce.txt` and `/cozyknits/commerce.txt` response simply streams the existing markdown artifact from `data/`, so re-run the generation script whenever the upstream source snapshot changes.
 - `uv run pytest` — execute the pytest suite without manually activating the venv.
 
 ## Working with the J.Crew parser
@@ -89,13 +90,13 @@ markdown = pipeline.write_markdown(
 Run `pytest tests/test_jcrew_parser.py tests/test_pipeline.py tests/test_effulgent_parser.py` to ensure the extractor and pipeline continue to match the upstream payload shape.
 
 ## Working with the Cozy Knits (Netlify) parser
-The Netlify storefront embeds its product catalog inside the compiled JS bundle located at `data/assets/main-B9P2jWt9.js`. Use `EffulgentParser` to normalize that payload:
+The Cozy Knits storefront on mockup-merchant embeds its product catalog inside the compiled JS bundle located at `data/assets/mockup_app_page.js`. Use `EffulgentParser` to normalize that payload:
 
 ```python
 from app.services.effulgent_parser import EffulgentParser
 
 parser = EffulgentParser()
-products = parser.parse_js("data/assets/main-B9P2jWt9.js")
+products = parser.parse_js("data/assets/mockup_app_page.js")
 ```
 
 You can then pass `products` into `MarkdownCompressor` or your own aggregator. Run `pytest tests/test_effulgent_parser.py` whenever the upstream bundle changes to guarantee the parser still matches the embedded schema.

@@ -8,7 +8,7 @@ JS_FIXTURE = (
     Path(__file__).resolve().parents[1]
     / "data"
     / "assets"
-    / "main-B9P2jWt9.js"
+    / "mockup_app_page.js"
 )
 
 
@@ -18,6 +18,6 @@ def test_effulgent_parser_returns_products() -> None:
 
     assert len(products) >= 1
     first = products[0]
-    assert first.url.startswith("https://effulgent-kataifi-4fc56b.netlify.app")
+    assert first.url.startswith("https://mockup-merchant.vercel.app/product/")
     assert "cashmere" in first.name.lower()
     assert "crew neck" in first.tags[0]

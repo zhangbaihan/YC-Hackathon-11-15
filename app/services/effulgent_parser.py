@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""Parser for the Cozy Knits Co. Netlify storefront."""
+"""Parser for the Cozy Knits Co. storefront (currently served via Vercel)."""
 
 from pathlib import Path
 import json
@@ -11,10 +11,17 @@ from app.schemas import Product
 
 
 class EffulgentParser:
-    """Parse the bundled product data from the demo Netlify storefront."""
+    """Parse the bundled product data from the Cozy Knits storefront."""
 
-    BASE_URL = "https://effulgent-kataifi-4fc56b.netlify.app"
-    PRODUCT_ARRAY_RE = re.compile(r"const\s+wf\s*=\s*(\[[^\]]+\])", re.DOTALL)
+    BASE_URL = "https://mockup-merchant.vercel.app"
+    ARRAY_PREFIXES = (
+        "const wf=",
+        "let wf=",
+        "var wf=",
+        "const t=",
+        "let t=",
+        "var t=",
+    )
     KEY_RE = re.compile(r'(?P<prefix>[{,])\s*(?P<key>[A-Za-z0-9_]+)\s*:')
 
     def parse_js(self, path: str | Path, limit: int | None = None) -> List[Product]:
@@ -33,19 +40,15 @@ class EffulgentParser:
         return self.parse_js(path, limit=limit)
 
     def _extract_entries(self, text: str) -> List[dict]:
-        match = self.PRODUCT_ARRAY_RE.search(text)
-        if not match:
-            raise ValueError("Unable to locate product array (wf) inside the JS bundle.")
-
-        blob = match.group(1)
+        blob = self._find_array_blob(text)
         json_blob = self.KEY_RE.sub(self._quote_keys, blob)
         try:
             parsed = json.loads(json_blob)
         except json.JSONDecodeError as exc:  # pragma: no cover - sanity fallback
-            raise ValueError("Failed to decode Netlify product payload.") from exc
+            raise ValueError("Failed to decode Cozy Knits product payload.") from exc
 
         if not isinstance(parsed, list):
-            raise ValueError("Expected a list of products in the Netlify payload.")
+            raise ValueError("Expected a list of products in the Cozy Knits payload.")
         return parsed
 
     def _quote_keys(self, match: re.Match[str]) -> str:
@@ -53,11 +56,55 @@ class EffulgentParser:
         key = match.group("key")
         return f'{prefix} "{key}":'
 
+    def _find_array_blob(self, text: str) -> str:
+        for prefix in self.ARRAY_PREFIXES:
+            idx = text.find(prefix)
+            if idx == -1:
+                continue
+            start = idx + len(prefix)
+            return self._extract_array(text, start)
+        raise ValueError("No known product array prefix found in Cozy Knits bundle.")
+
+    def _extract_array(self, text: str, start_idx: int) -> str:
+        i = start_idx
+        length = len(text)
+        while i < length and text[i] != "[":
+            i += 1
+        if i >= length:
+            raise ValueError("Array opening bracket not found.")
+
+        depth = 0
+        in_string = False
+        escape = False
+        quote_char = ""
+        for j in range(i, length):
+            ch = text[j]
+            if in_string:
+                if escape:
+                    escape = False
+                elif ch == "\\":
+                    escape = True
+                elif ch == quote_char:
+                    in_string = False
+                continue
+
+            if ch in ('"', "'"):
+                in_string = True
+                quote_char = ch
+            elif ch == "[":
+                depth += 1
+            elif ch == "]":
+                depth -= 1
+                if depth == 0:
+                    return text[i : j + 1]
+
+        raise ValueError("Array closing bracket not found.")
+
     def _to_product(self, data: dict) -> Product:
         name = data.get("name") or f"Product {data.get('id', 'N/A')}"
         description = data.get("description") or name
         price = float(data.get("price") or 0.0)
-        url = f"{self.BASE_URL}/#product-{data.get('id', 0)}"
+        url = f"{self.BASE_URL}/product/{data.get('id', 0)}/"
 
         tags = self._build_tags(data)
         metadata = self._build_metadata(data)

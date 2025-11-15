@@ -8,13 +8,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse, PlainTextResponse
 
 from app.schemas import FileIngestionRequest, ProcessedResponse
-from app.services import (
-    CommercePipeline,
-    EffulgentParser,
-    FileIngestor,
-    JCrewPlpParser,
-    MarkdownCompressor,
-)
+from app.services import FileIngestor, MarkdownCompressor
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
