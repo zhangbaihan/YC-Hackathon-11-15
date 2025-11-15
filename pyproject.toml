@@ -1,0 +1,30 @@
+[project]
+name = "commerce-txt"
+version = "0.1.0"
+description = "FastAPI server that ingests commerce data and emits context-optimized markdown"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.111.0",
+    "uvicorn[standard]>=0.29.0",
+    "pydantic>=2.7.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.2.0",
+    "httpx>=0.27.0"
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.2.0",
+    "httpx>=0.27.0"
+]
+
+[tool.setuptools.packages.find]
+include = ["app*"]
+
+[build-system]
+requires = ["setuptools>=65.5.0", "wheel"]
+build-backend = "setuptools.build_meta"

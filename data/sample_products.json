@@ -1,0 +1,20 @@
+[
+  {
+    "name": "FlexDesk Pro",
+    "description": "Height-adjustable desk with cable management",
+    "price": 899.0,
+    "currency": "USD",
+    "url": "https://example.com/desks/flexdesk-pro",
+    "tags": ["desk", "ergonomic", "office"],
+    "availability": "in_stock"
+  },
+  {
+    "name": "FocusBeam Light",
+    "description": "Calibrated task lamp with adaptive brightness",
+    "price": 129.5,
+    "currency": "USD",
+    "url": "https://example.com/lighting/focusbeam",
+    "tags": ["lighting", "smart"],
+    "availability": "low_stock"
+  }
+]
