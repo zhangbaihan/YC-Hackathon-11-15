@@ -3,299 +3,299 @@
 1. [Fair Isle wool sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/fair-isle-wool-sweater/CO534?display=standard&fit=Classic) — USD 178.00 · Classic
    - Fair Isle wool sweater
    - tags: sweaters, crewneck, holly berry cream jacqu, new
-   - meta: code: CO534, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CO534, primary_category: mens|categories|clothing|sweaters|crewneck, badge: new, list_price: $178.00, search_price: 178, url_path: /p/mens/categories/clothing/sweaters/crewneck/fair-isle-wool-sweater/CO534?display=standard&fit=Classic
 
 2. [Midweight cashmere ribbed raglan-sleeve turtleneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/midweight-cashmere-ribbed-raglan-sleeve-turtleneck-sweater/ME803?display=standard&fit=Classic) — USD 288.00 · Classic
    - Midweight cashmere ribbed raglan-sleeve turtleneck sweater
    - tags: sweaters, pullover, marled dark midnight, warm ivory, new color
-   - meta: code: CE489, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: CE489, primary_category: mens|categories|clothing|sweaters|pullover, badge: new color, list_price: $288.00, search_price: 288, url_path: /m/mens/categories/clothing/sweaters/pullover/midweight-cashmere-ribbed-raglan-sleeve-turtleneck-sweater/ME803?display=standard&fit=Classic, rating: 4.82, reviews: 11
 
 3. [Heritage cotton crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic) — USD 59.50 · Classic
    - Heritage cotton crewneck sweater
    - tags: sweaters, pullover, red ochre, vintage barn, ivory, hthr sand, heather steel, jcrew green, navy, hthr twilight, black, best seller
-   - meta: code: BI841, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BI841, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $98.00, search_price: 59.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic, rating: 4.8, reviews: 984
 
 4. [Fair Isle Rollneck&trade; sweater in lambswool](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/fair-isle-rollnecktrade-sweater-in-lambswool/ME805?display=standard&fit=Classic) — USD 188.00 · Classic
    - Fair Isle Rollneck&trade; sweater in lambswool
    - tags: sweaters, pullover, hthr beechwood black j, hthr gravel deep navy j, new
-   - meta: code: CO531, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: CO531, primary_category: mens|categories|clothing|sweaters|pullover, badge: new, list_price: $188.00, search_price: 188, url_path: /m/mens/categories/clothing/sweaters/pullover/fair-isle-rollnecktrade-sweater-in-lambswool/ME805?display=standard&fit=Classic
 
 5. [Fair Isle sweater-polo in wool](https://www.jcrew.com/p/mens/categories/clothing/sweaters/polo/fair-isle-sweater-polo-in-wool/CO533?display=standard&fit=Classic) — USD 198.00 · Classic
    - Fair Isle sweater-polo in wool
    - tags: sweaters, polo, navy blue multi fairisl, new
-   - meta: code: CO533, category: mens|categories|clothing|sweaters|polo
+   - meta: product_code: CO533, primary_category: mens|categories|clothing|sweaters|polo, badge: new, list_price: $198.00, search_price: 198, url_path: /p/mens/categories/clothing/sweaters/polo/fair-isle-sweater-polo-in-wool/CO533?display=standard&fit=Classic
 
 6. [Rollneck&trade; sweater in snowflake jacquard lambswool](https://www.jcrew.com/m/mens/categories/clothing/sweaters/rollnecktrade-sweater-in-snowflake-jacquard-lambswool/ME805?display=standard&fit=Classic) — USD 188.00 · Classic
    - Rollneck&trade; sweater in snowflake jacquard lambswool
    - tags: sweaters, hthr beechwood black j, hthr gravel deep navy j, new
-   - meta: code: CO532, category: mens|categories|clothing|sweaters
+   - meta: product_code: CO532, primary_category: mens|categories|clothing|sweaters, badge: new, list_price: $188.00, search_price: 188, url_path: /m/mens/categories/clothing/sweaters/rollnecktrade-sweater-in-snowflake-jacquard-lambswool/ME805?display=standard&fit=Classic
 
 7. [Midweight cashmere half-zip sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/pullover/midweight-cashmere-half-zip-sweater/CM307?display=standard&fit=Classic) — USD 268.00 · Classic
    - Midweight cashmere half-zip sweater
    - tags: sweaters, pullover, navy abyss, hthr birch
-   - meta: code: CM307, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: CM307, primary_category: mens|categories|clothing|sweaters|pullover, list_price: $268.00, search_price: 268, url_path: /p/mens/categories/clothing/sweaters/pullover/midweight-cashmere-half-zip-sweater/CM307?display=standard&fit=Classic
 
 8. [Cashmere hoodie](https://www.jcrew.com/m/mens/categories/clothing/sweaters/hoodie/cashmere-hoodie/MP601?display=standard&fit=Classic) — USD 268.00 · Classic
    - Cashmere hoodie
    - tags: sweaters, hoodie, hthr grey, navy, top rated
-   - meta: code: BC474, category: mens|categories|clothing|sweaters|hoodie
+   - meta: product_code: BC474, primary_category: mens|categories|clothing|sweaters|hoodie, badge: top rated, list_price: $268.00, search_price: 268, url_path: /m/mens/categories/clothing/sweaters/hoodie/cashmere-hoodie/MP601?display=standard&fit=Classic, rating: 4.52, reviews: 65
 
 9. [Fair Isle cardigan in lambswool](https://www.jcrew.com/p/mens/categories/clothing/sweaters/fair-isle-cardigan-in-lambswool/CO535?display=standard&fit=Classic) — USD 248.00 · Classic
    - Fair Isle cardigan in lambswool
    - tags: sweaters, navy nordic fairisle, new
-   - meta: code: CO535, category: mens|categories|clothing|sweaters
+   - meta: product_code: CO535, primary_category: mens|categories|clothing|sweaters, badge: new, list_price: $248.00, search_price: 248, url_path: /p/mens/categories/clothing/sweaters/fair-isle-cardigan-in-lambswool/CO535?display=standard&fit=Classic
 
 10. [Merino wool V-neck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/hoodie/merino-wool-v-neck-sweater/AD337?display=standard&fit=Classic) — USD 69.50 · Classic
    - Merino wool V-neck sweater
    - tags: sweaters, hoodie, hthr metal, dark navy, black, best seller
-   - meta: code: AD337, category: mens|categories|clothing|sweaters|hoodie
+   - meta: product_code: AD337, primary_category: mens|categories|clothing|sweaters|hoodie, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/hoodie/merino-wool-v-neck-sweater/AD337?display=standard&fit=Classic, rating: 4.6, reviews: 167
 
 11. [Merino wool V-neck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/hoodie/merino-wool-v-neck-sweater/AD337?display=standard&fit=Classic) — USD 69.50 · Classic
    - Merino wool V-neck sweater
    - tags: sweaters, hoodie, hthr metal, dark navy, black, best seller
-   - meta: code: AD337, category: mens|categories|clothing|sweaters|hoodie
+   - meta: product_code: AD337, primary_category: mens|categories|clothing|sweaters|hoodie, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/hoodie/merino-wool-v-neck-sweater/AD337?display=standard&fit=Classic, rating: 4.6, reviews: 167
 
 12. [Merino wool V-neck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/hoodie/merino-wool-v-neck-sweater/AD337?display=standard&fit=Classic) — USD 69.50 · Classic
    - Merino wool V-neck sweater
    - tags: sweaters, hoodie, hthr metal, dark navy, black, best seller
-   - meta: code: AD337, category: mens|categories|clothing|sweaters|hoodie
+   - meta: product_code: AD337, primary_category: mens|categories|clothing|sweaters|hoodie, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/hoodie/merino-wool-v-neck-sweater/AD337?display=standard&fit=Classic, rating: 4.6, reviews: 167
 
 13. [Heritage cotton half-zip sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic) — USD 82.50 · Classic
    - Heritage cotton half-zip sweater
    - tags: sweaters, pullover, deepest spruce, ivory, hthr sand, hthr dark cherry, navy, black, best seller
-   - meta: code: BT793, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BT793, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $118.00, search_price: 82.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic, rating: 4.74, reviews: 293
 
 14. [Heritage cotton crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic) — USD 59.50 · Classic
    - Heritage cotton crewneck sweater
    - tags: sweaters, pullover, red ochre, vintage barn, ivory, hthr sand, heather steel, jcrew green, navy, hthr twilight, black, best seller
-   - meta: code: BI841, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BI841, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $98.00, search_price: 59.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic, rating: 4.8, reviews: 984
 
 15. [Basket-stitch cotton crewneck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic) — USD 69.50 · Classic
    - Basket-stitch cotton crewneck sweater
    - tags: sweaters, crewneck, vintage burgundy, eggplant, heather saddle, ivory, hthr zinc, heather moss, woodland, darkest indigo navy, hthr sky, black, best seller
-   - meta: code: CQ168, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CQ168, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic, rating: 4.76, reviews: 88
 
 16. [1988 Rollneck&trade; sweater in cotton](https://www.jcrew.com/m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic) — USD 98.00 · Classic
    - 1988 Rollneck&trade; sweater in cotton
    - tags: womens, sweaters, pullovers, darkest indigo sunset g, navy multi stripe, hthr black regal blue s, red ochre, mountain white, heather moss, navy, hthr sky, black, best seller
-   - meta: code: BW186, category: womens|categories|clothing|sweaters|pullovers
+   - meta: product_code: BW186, primary_category: womens|categories|clothing|sweaters|pullovers, badge: best seller, list_price: $98.00, search_price: 98, url_path: /m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic, rating: 4.77, reviews: 507
 
 17. [Heritage cotton half-zip sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic) — USD 82.50 · Classic
    - Heritage cotton half-zip sweater
    - tags: sweaters, pullover, deepest spruce, ivory, hthr sand, hthr dark cherry, navy, black, best seller
-   - meta: code: BT793, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BT793, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $118.00, search_price: 82.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic, rating: 4.74, reviews: 293
 
 18. [Cashmere crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic) — USD 158.00 · Classic
    - Cashmere crewneck sweater
    - tags: sweaters, crewneck, hthr birch port wine st, navy elm birch houndsto, hthr roasted coffee bir, port wine, flagship red, hthr roasted coffee, hthr dark thistle, hthr desert, hthr pyrite, hthr pistachio, hthr night star, hthr elm, hthr birch, hthr forest, hthr river, navy, black, best seller
-   - meta: code: BE895, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: BE895, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $158.00, search_price: 158, url_path: /m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic, rating: 4.73, reviews: 676
 
 19. [Basket-stitch cotton crewneck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic) — USD 69.50 · Classic
    - Basket-stitch cotton crewneck sweater
    - tags: sweaters, crewneck, vintage burgundy, eggplant, heather saddle, ivory, hthr zinc, heather moss, woodland, darkest indigo navy, hthr sky, black, best seller
-   - meta: code: CQ168, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CQ168, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic, rating: 4.76, reviews: 88
 
 20. [Basket-stitch cotton crewneck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic) — USD 69.50 · Classic
    - Basket-stitch cotton crewneck sweater
    - tags: sweaters, crewneck, vintage burgundy, eggplant, heather saddle, ivory, hthr zinc, heather moss, woodland, darkest indigo navy, hthr sky, black, best seller
-   - meta: code: CQ168, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CQ168, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic, rating: 4.76, reviews: 88
 
 21. [Cashmere crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic) — USD 158.00 · Classic
    - Cashmere crewneck sweater
    - tags: sweaters, crewneck, hthr birch port wine st, navy elm birch houndsto, hthr roasted coffee bir, port wine, flagship red, hthr roasted coffee, hthr dark thistle, hthr desert, hthr pyrite, hthr pistachio, hthr night star, hthr elm, hthr birch, hthr forest, hthr river, navy, black, best seller
-   - meta: code: BE895, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: BE895, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $158.00, search_price: 158, url_path: /m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic, rating: 4.73, reviews: 676
 
 22. [Basket-stitch cotton crewneck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic) — USD 69.50 · Classic
    - Basket-stitch cotton crewneck sweater
    - tags: sweaters, crewneck, vintage burgundy, eggplant, heather saddle, ivory, hthr zinc, heather moss, woodland, darkest indigo navy, hthr sky, black, best seller
-   - meta: code: CQ168, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CQ168, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic, rating: 4.76, reviews: 88
 
 23. [1988 Rollneck&trade; sweater in cotton](https://www.jcrew.com/m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic) — USD 98.00 · Classic
    - 1988 Rollneck&trade; sweater in cotton
    - tags: womens, sweaters, pullovers, darkest indigo sunset g, navy multi stripe, hthr black regal blue s, red ochre, mountain white, heather moss, navy, hthr sky, black, best seller
-   - meta: code: BW186, category: womens|categories|clothing|sweaters|pullovers
+   - meta: product_code: BW186, primary_category: womens|categories|clothing|sweaters|pullovers, badge: best seller, list_price: $98.00, search_price: 98, url_path: /m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic, rating: 4.77, reviews: 507
 
 24. [1988 Rollneck&trade; sweater in cotton](https://www.jcrew.com/m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic) — USD 98.00 · Classic
    - 1988 Rollneck&trade; sweater in cotton
    - tags: womens, sweaters, pullovers, darkest indigo sunset g, navy multi stripe, hthr black regal blue s, red ochre, mountain white, heather moss, navy, hthr sky, black, best seller
-   - meta: code: BW186, category: womens|categories|clothing|sweaters|pullovers
+   - meta: product_code: BW186, primary_category: womens|categories|clothing|sweaters|pullovers, badge: best seller, list_price: $98.00, search_price: 98, url_path: /m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic, rating: 4.77, reviews: 507
 
 25. [Rugged merino wool-blend marled half-zip sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/pullover/rugged-merino-wool-blend-marled-half-zip-sweater/CN649?display=standard&fit=Classic) — USD 76.50 · Classic
    - Rugged merino wool-blend marled half-zip sweater
    - tags: sweaters, pullover, marled hazelnut, marled navy
-   - meta: code: CN649, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: CN649, primary_category: mens|categories|clothing|sweaters|pullover, list_price: $128.00, search_price: 76.5, url_path: /p/mens/categories/clothing/sweaters/pullover/rugged-merino-wool-blend-marled-half-zip-sweater/CN649?display=standard&fit=Classic, rating: 5, reviews: 1
 
 26. [Cashmere crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic) — USD 158.00 · Classic
    - Cashmere crewneck sweater
    - tags: sweaters, crewneck, hthr birch port wine st, navy elm birch houndsto, hthr roasted coffee bir, port wine, flagship red, hthr roasted coffee, hthr dark thistle, hthr desert, hthr pyrite, hthr pistachio, hthr night star, hthr elm, hthr birch, hthr forest, hthr river, navy, black, best seller
-   - meta: code: BE895, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: BE895, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $158.00, search_price: 158, url_path: /m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic, rating: 4.73, reviews: 676
 
 27. [Basket-stitch cotton crewneck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic) — USD 69.50 · Classic
    - Basket-stitch cotton crewneck sweater
    - tags: sweaters, crewneck, vintage burgundy, eggplant, heather saddle, ivory, hthr zinc, heather moss, woodland, darkest indigo navy, hthr sky, black, best seller
-   - meta: code: CQ168, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CQ168, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic, rating: 4.76, reviews: 88
 
 28. [Heritage cotton crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic) — USD 59.50 · Classic
    - Heritage cotton crewneck sweater
    - tags: sweaters, pullover, red ochre, vintage barn, ivory, hthr sand, heather steel, jcrew green, navy, hthr twilight, black, best seller
-   - meta: code: BI841, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BI841, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $98.00, search_price: 59.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic, rating: 4.8, reviews: 984
 
 29. [Rugged merino wool-blend cardigan sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/cardigan/rugged-merino-wool-blend-cardigan-sweater/BA217?display=standard&fit=Classic) — USD 112.50 · Classic
    - Rugged merino wool-blend cardigan sweater
    - tags: sweaters, cardigan, marled navy, top rated
-   - meta: code: BA217, category: mens|categories|clothing|sweaters|cardigan
+   - meta: product_code: BA217, primary_category: mens|categories|clothing|sweaters|cardigan, badge: top rated, list_price: $188.00, search_price: 112.5, url_path: /p/mens/categories/clothing/sweaters/cardigan/rugged-merino-wool-blend-cardigan-sweater/BA217?display=standard&fit=Classic, rating: 4.6, reviews: 86
 
 30. [Heritage cotton half-zip sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic) — USD 82.50 · Classic
    - Heritage cotton half-zip sweater
    - tags: sweaters, pullover, deepest spruce, ivory, hthr sand, hthr dark cherry, navy, black, best seller
-   - meta: code: BT793, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BT793, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $118.00, search_price: 82.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic, rating: 4.74, reviews: 293
 
 31. [1988 Rollneck&trade; sweater in cotton](https://www.jcrew.com/m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic) — USD 98.00 · Classic
    - 1988 Rollneck&trade; sweater in cotton
    - tags: womens, sweaters, pullovers, darkest indigo sunset g, navy multi stripe, hthr black regal blue s, red ochre, mountain white, heather moss, navy, hthr sky, black, best seller
-   - meta: code: BW186, category: womens|categories|clothing|sweaters|pullovers
+   - meta: product_code: BW186, primary_category: womens|categories|clothing|sweaters|pullovers, badge: best seller, list_price: $98.00, search_price: 98, url_path: /m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic, rating: 4.77, reviews: 507
 
 32. [Heritage cotton half-zip sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic) — USD 82.50 · Classic
    - Heritage cotton half-zip sweater
    - tags: sweaters, pullover, deepest spruce, ivory, hthr sand, hthr dark cherry, navy, black, best seller
-   - meta: code: BT793, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BT793, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $118.00, search_price: 82.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic, rating: 4.74, reviews: 293
 
 33. [Basket-stitch cotton crewneck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic) — USD 69.50 · Classic
    - Basket-stitch cotton crewneck sweater
    - tags: sweaters, crewneck, vintage burgundy, eggplant, heather saddle, ivory, hthr zinc, heather moss, woodland, darkest indigo navy, hthr sky, black, best seller
-   - meta: code: CQ168, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CQ168, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic, rating: 4.76, reviews: 88
 
 34. [Heritage cotton crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic) — USD 59.50 · Classic
    - Heritage cotton crewneck sweater
    - tags: sweaters, pullover, red ochre, vintage barn, ivory, hthr sand, heather steel, jcrew green, navy, hthr twilight, black, best seller
-   - meta: code: BI841, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BI841, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $98.00, search_price: 59.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic, rating: 4.8, reviews: 984
 
 35. [Cashmere crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic) — USD 158.00 · Classic
    - Cashmere crewneck sweater
    - tags: sweaters, crewneck, hthr birch port wine st, navy elm birch houndsto, hthr roasted coffee bir, port wine, flagship red, hthr roasted coffee, hthr dark thistle, hthr desert, hthr pyrite, hthr pistachio, hthr night star, hthr elm, hthr birch, hthr forest, hthr river, navy, black, best seller
-   - meta: code: BE895, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: BE895, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $158.00, search_price: 158, url_path: /m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic, rating: 4.73, reviews: 676
 
 36. [Heritage cotton sweater-polo](https://www.jcrew.com/m/mens/categories/clothing/polos/sweater-polos/heritage-cotton-sweater-polo/ME749?display=standard&fit=Classic) — USD 76.50 · Classic
    - Heritage cotton sweater-polo
    - tags: polos, sweater polos, darkest indigo ivory st, hthr natural, hthr zinc, woodland, inky mocha, darkest indigo navy, black, best seller
-   - meta: code: CF782, category: mens|categories|clothing|polos|sweater-polos
+   - meta: product_code: CF782, primary_category: mens|categories|clothing|polos|sweater-polos, badge: best seller, list_price: $118.00, search_price: 76.5, url_path: /m/mens/categories/clothing/polos/sweater-polos/heritage-cotton-sweater-polo/ME749?display=standard&fit=Classic, rating: 4.85, reviews: 107
 
 37. [Heritage cotton crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic) — USD 59.50 · Classic
    - Heritage cotton crewneck sweater
    - tags: sweaters, pullover, red ochre, vintage barn, ivory, hthr sand, heather steel, jcrew green, navy, hthr twilight, black, best seller
-   - meta: code: BI841, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BI841, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $98.00, search_price: 59.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic, rating: 4.8, reviews: 984
 
 38. [Heritage cotton sweater-polo](https://www.jcrew.com/m/mens/categories/clothing/polos/sweater-polos/heritage-cotton-sweater-polo/ME749?display=standard&fit=Classic) — USD 76.50 · Classic
    - Heritage cotton sweater-polo
    - tags: polos, sweater polos, darkest indigo ivory st, hthr natural, hthr zinc, woodland, inky mocha, darkest indigo navy, black, best seller
-   - meta: code: CF782, category: mens|categories|clothing|polos|sweater-polos
+   - meta: product_code: CF782, primary_category: mens|categories|clothing|polos|sweater-polos, badge: best seller, list_price: $118.00, search_price: 76.5, url_path: /m/mens/categories/clothing/polos/sweater-polos/heritage-cotton-sweater-polo/ME749?display=standard&fit=Classic, rating: 4.85, reviews: 107
 
 39. [Rugged merino wool-blend marled half-zip sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/pullover/rugged-merino-wool-blend-marled-half-zip-sweater/CN649?display=standard&fit=Classic) — USD 76.50 · Classic
    - Rugged merino wool-blend marled half-zip sweater
    - tags: sweaters, pullover, marled hazelnut, marled navy
-   - meta: code: CN649, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: CN649, primary_category: mens|categories|clothing|sweaters|pullover, list_price: $128.00, search_price: 76.5, url_path: /p/mens/categories/clothing/sweaters/pullover/rugged-merino-wool-blend-marled-half-zip-sweater/CN649?display=standard&fit=Classic, rating: 5, reviews: 1
 
 40. [Basket-stitch cotton crewneck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic) — USD 69.50 · Classic
    - Basket-stitch cotton crewneck sweater
    - tags: sweaters, crewneck, vintage burgundy, eggplant, heather saddle, ivory, hthr zinc, heather moss, woodland, darkest indigo navy, hthr sky, black, best seller
-   - meta: code: CQ168, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CQ168, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic, rating: 4.76, reviews: 88
 
 41. [Heritage cotton half-zip sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic) — USD 82.50 · Classic
    - Heritage cotton half-zip sweater
    - tags: sweaters, pullover, deepest spruce, ivory, hthr sand, hthr dark cherry, navy, black, best seller
-   - meta: code: BT793, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BT793, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $118.00, search_price: 82.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic, rating: 4.74, reviews: 293
 
 42. [Heritage cotton sweater-polo](https://www.jcrew.com/m/mens/categories/clothing/polos/sweater-polos/heritage-cotton-sweater-polo/ME749?display=standard&fit=Classic) — USD 76.50 · Classic
    - Heritage cotton sweater-polo
    - tags: polos, sweater polos, darkest indigo ivory st, hthr natural, hthr zinc, woodland, inky mocha, darkest indigo navy, black, best seller
-   - meta: code: CF782, category: mens|categories|clothing|polos|sweater-polos
+   - meta: product_code: CF782, primary_category: mens|categories|clothing|polos|sweater-polos, badge: best seller, list_price: $118.00, search_price: 76.5, url_path: /m/mens/categories/clothing/polos/sweater-polos/heritage-cotton-sweater-polo/ME749?display=standard&fit=Classic, rating: 4.85, reviews: 107
 
 43. [Cashmere crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic) — USD 158.00 · Classic
    - Cashmere crewneck sweater
    - tags: sweaters, crewneck, hthr birch port wine st, navy elm birch houndsto, hthr roasted coffee bir, port wine, flagship red, hthr roasted coffee, hthr dark thistle, hthr desert, hthr pyrite, hthr pistachio, hthr night star, hthr elm, hthr birch, hthr forest, hthr river, navy, black, best seller
-   - meta: code: BE895, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: BE895, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $158.00, search_price: 158, url_path: /m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic, rating: 4.73, reviews: 676
 
 44. [Rugged merino wool-blend marled sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/rugged-merino-wool-blend-marled-sweater/CN648?display=standard&fit=Classic) — USD 69.50 · Classic
    - Rugged merino wool-blend marled sweater
    - tags: sweaters, crewneck, marled burgundy, marled black, top rated
-   - meta: code: CN648, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CN648, primary_category: mens|categories|clothing|sweaters|crewneck, badge: top rated, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/rugged-merino-wool-blend-marled-sweater/CN648?display=standard&fit=Classic, rating: 4.75, reviews: 4
 
 45. [Heritage cotton sweater-polo](https://www.jcrew.com/m/mens/categories/clothing/polos/sweater-polos/heritage-cotton-sweater-polo/ME749?display=standard&fit=Classic) — USD 76.50 · Classic
    - Heritage cotton sweater-polo
    - tags: polos, sweater polos, darkest indigo ivory st, hthr natural, hthr zinc, woodland, inky mocha, darkest indigo navy, black, best seller
-   - meta: code: CF782, category: mens|categories|clothing|polos|sweater-polos
+   - meta: product_code: CF782, primary_category: mens|categories|clothing|polos|sweater-polos, badge: best seller, list_price: $118.00, search_price: 76.5, url_path: /m/mens/categories/clothing/polos/sweater-polos/heritage-cotton-sweater-polo/ME749?display=standard&fit=Classic, rating: 4.85, reviews: 107
 
 46. [Heritage cotton crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic) — USD 59.50 · Classic
    - Heritage cotton crewneck sweater
    - tags: sweaters, pullover, red ochre, vintage barn, ivory, hthr sand, heather steel, jcrew green, navy, hthr twilight, black, best seller
-   - meta: code: BI841, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BI841, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $98.00, search_price: 59.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-crewneck-sweater/MP443?display=standard&fit=Classic, rating: 4.8, reviews: 984
 
 47. [1988 Rollneck&trade; sweater in cotton](https://www.jcrew.com/m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic) — USD 98.00 · Classic
    - 1988 Rollneck&trade; sweater in cotton
    - tags: womens, sweaters, pullovers, darkest indigo sunset g, navy multi stripe, hthr black regal blue s, red ochre, mountain white, heather moss, navy, hthr sky, black, best seller
-   - meta: code: BW186, category: womens|categories|clothing|sweaters|pullovers
+   - meta: product_code: BW186, primary_category: womens|categories|clothing|sweaters|pullovers, badge: best seller, list_price: $98.00, search_price: 98, url_path: /m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic, rating: 4.77, reviews: 507
 
 48. [Heritage cotton half-zip sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic) — USD 82.50 · Classic
    - Heritage cotton half-zip sweater
    - tags: sweaters, pullover, deepest spruce, ivory, hthr sand, hthr dark cherry, navy, black, best seller
-   - meta: code: BT793, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: BT793, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $118.00, search_price: 82.5, url_path: /m/mens/categories/clothing/sweaters/pullover/heritage-cotton-half-zip-sweater/ME121?display=standard&fit=Classic, rating: 4.74, reviews: 293
 
 49. [Heritage cotton ribbed half-zip sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/pullover/heritage-cotton-ribbed-half-zip-sweater/CM332?display=standard&fit=Classic) — USD 76.50 · Classic
    - Heritage cotton ribbed half-zip sweater
    - tags: sweaters, pullover, hthr natural, hthr charcoal, darkest indigo navy, best seller
-   - meta: code: CM332, category: mens|categories|clothing|sweaters|pullover
+   - meta: product_code: CM332, primary_category: mens|categories|clothing|sweaters|pullover, badge: best seller, list_price: $128.00, search_price: 76.5, url_path: /p/mens/categories/clothing/sweaters/pullover/heritage-cotton-ribbed-half-zip-sweater/CM332?display=standard&fit=Classic, rating: 4.67, reviews: 6
 
 50. [Short-sleeve textured-stitch cotton johnny-collar sweater-polo](https://www.jcrew.com/m/mens/categories/clothing/sweaters/polo/short-sleeve-textured-stitch-cotton-johnny-collar-sweater-polo/ME575?display=standard&fit=Classic) — USD 77.99 · Classic
    - Short-sleeve textured-stitch cotton johnny-collar sweater-polo
    - tags: sweaters, polo, hthr natural, ivory, darkest indigo navy, black, new color
-   - meta: code: CL413, category: mens|categories|clothing|sweaters|polo
+   - meta: product_code: CL413, primary_category: mens|categories|clothing|sweaters|polo, badge: new color, list_price: $98.00, search_price: 77.99, url_path: /m/mens/categories/clothing/sweaters/polo/short-sleeve-textured-stitch-cotton-johnny-collar-sweater-polo/ME575?display=standard&fit=Classic, rating: 4.85, reviews: 40
 
 51. [Cashmere crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic) — USD 158.00 · Classic
    - Cashmere crewneck sweater
    - tags: sweaters, crewneck, hthr birch port wine st, navy elm birch houndsto, hthr roasted coffee bir, port wine, flagship red, hthr roasted coffee, hthr dark thistle, hthr desert, hthr pyrite, hthr pistachio, hthr night star, hthr elm, hthr birch, hthr forest, hthr river, navy, black, best seller
-   - meta: code: BE895, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: BE895, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $158.00, search_price: 158, url_path: /m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic, rating: 4.73, reviews: 676
 
 52. [1988 Rollneck&trade; sweater in stripe](https://www.jcrew.com/m/mens/categories/clothing/sweaters/crewneck/1988-rollnecktrade-sweater-in-stripe/ME574?display=standard&fit=Classic) — USD 98.00 · Classic
    - 1988 Rollneck&trade; sweater in stripe
    - tags: sweaters, crewneck, darkest indigo sunset g, navy multi stripe, hthr black regal blue s, red ochre, mountain white, heather moss, navy, hthr sky, black, top rated
-   - meta: code: CP609, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CP609, primary_category: mens|categories|clothing|sweaters|crewneck, badge: top rated, list_price: $98.00, search_price: 98, url_path: /m/mens/categories/clothing/sweaters/crewneck/1988-rollnecktrade-sweater-in-stripe/ME574?display=standard&fit=Classic, rating: 4.63, reviews: 8
 
 53. [Cashmere crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic) — USD 158.00 · Classic
    - Cashmere crewneck sweater
    - tags: sweaters, crewneck, hthr birch port wine st, navy elm birch houndsto, hthr roasted coffee bir, port wine, flagship red, hthr roasted coffee, hthr dark thistle, hthr desert, hthr pyrite, hthr pistachio, hthr night star, hthr elm, hthr birch, hthr forest, hthr river, navy, black, best seller
-   - meta: code: BE895, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: BE895, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $158.00, search_price: 158, url_path: /m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic, rating: 4.73, reviews: 676
 
 54. [Basket-stitch cotton crewneck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic) — USD 69.50 · Classic
    - Basket-stitch cotton crewneck sweater
    - tags: sweaters, crewneck, vintage burgundy, eggplant, heather saddle, ivory, hthr zinc, heather moss, woodland, darkest indigo navy, hthr sky, black, best seller
-   - meta: code: CQ168, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CQ168, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic, rating: 4.76, reviews: 88
 
 55. [Cashmere crewneck sweater](https://www.jcrew.com/m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic) — USD 158.00 · Classic
    - Cashmere crewneck sweater
    - tags: sweaters, crewneck, hthr birch port wine st, navy elm birch houndsto, hthr roasted coffee bir, port wine, flagship red, hthr roasted coffee, hthr dark thistle, hthr desert, hthr pyrite, hthr pistachio, hthr night star, hthr elm, hthr birch, hthr forest, hthr river, navy, black, best seller
-   - meta: code: BE895, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: BE895, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $158.00, search_price: 158, url_path: /m/mens/categories/clothing/sweaters/crewneck/cashmere-crewneck-sweater/ME681?display=standard&fit=Classic, rating: 4.73, reviews: 676
 
 56. [1988 Rollneck&trade; sweater in cotton](https://www.jcrew.com/m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic) — USD 98.00 · Classic
    - 1988 Rollneck&trade; sweater in cotton
    - tags: womens, sweaters, pullovers, darkest indigo sunset g, navy multi stripe, hthr black regal blue s, red ochre, mountain white, heather moss, navy, hthr sky, black, best seller
-   - meta: code: BW186, category: womens|categories|clothing|sweaters|pullovers
+   - meta: product_code: BW186, primary_category: womens|categories|clothing|sweaters|pullovers, badge: best seller, list_price: $98.00, search_price: 98, url_path: /m/womens/categories/clothing/sweaters/pullovers/1988-rollnecktrade-sweater-in-cotton/ME574?display=standard&fit=Classic, rating: 4.77, reviews: 507
 
 57. [Cashmere collared sweater-polo](https://www.jcrew.com/p/mens/categories/clothing/polos/sweater-polos/cashmere-collared-sweater-polo/BA079?display=standard&fit=Classic) — USD 228.00 · Classic
    - Cashmere collared sweater-polo
    - tags: polos, sweater polos, hthr birch, hthr grey, navy, black, best seller
-   - meta: code: BA079, category: mens|categories|clothing|polos|sweater-polos
+   - meta: product_code: BA079, primary_category: mens|categories|clothing|polos|sweater-polos, badge: best seller, list_price: $228.00, search_price: 228, url_path: /p/mens/categories/clothing/polos/sweater-polos/cashmere-collared-sweater-polo/BA079?display=standard&fit=Classic, rating: 4.71, reviews: 107
 
 58. [Cotton milano-stitch coach's sweater-jacket](https://www.jcrew.com/p/mens/categories/clothing/sweaters/cardigan/cotton-milano-stitch-coachs-sweater-jacket/CG333?display=standard&fit=Classic) — USD 102.50 · Classic
    - Cotton milano-stitch coach's sweater-jacket
    - tags: sweaters, cardigan, hthr zinc, inky mocha, darkest indigo navy, top rated
-   - meta: code: CG333, category: mens|categories|clothing|sweaters|cardigan
+   - meta: product_code: CG333, primary_category: mens|categories|clothing|sweaters|cardigan, badge: top rated, list_price: $158.00, search_price: 102.5, url_path: /p/mens/categories/clothing/sweaters/cardigan/cotton-milano-stitch-coachs-sweater-jacket/CG333?display=standard&fit=Classic, rating: 4.65, reviews: 20
 
 59. [Basket-stitch cotton crewneck sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic) — USD 69.50 · Classic
    - Basket-stitch cotton crewneck sweater
    - tags: sweaters, crewneck, vintage burgundy, eggplant, heather saddle, ivory, hthr zinc, heather moss, woodland, darkest indigo navy, hthr sky, black, best seller
-   - meta: code: CQ168, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CQ168, primary_category: mens|categories|clothing|sweaters|crewneck, badge: best seller, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/basket-stitch-cotton-crewneck-sweater/CQ168?display=standard&fit=Classic, rating: 4.76, reviews: 88
 
 60. [Rugged merino wool-blend marled sweater](https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/rugged-merino-wool-blend-marled-sweater/CN648?display=standard&fit=Classic) — USD 69.50 · Classic
    - Rugged merino wool-blend marled sweater
    - tags: sweaters, crewneck, marled burgundy, marled black, top rated
-   - meta: code: CN648, category: mens|categories|clothing|sweaters|crewneck
+   - meta: product_code: CN648, primary_category: mens|categories|clothing|sweaters|crewneck, badge: top rated, list_price: $118.00, search_price: 69.5, url_path: /p/mens/categories/clothing/sweaters/crewneck/rugged-merino-wool-blend-marled-sweater/CN648?display=standard&fit=Classic, rating: 4.75, reviews: 4
