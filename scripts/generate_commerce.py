@@ -6,6 +6,9 @@ import argparse
 from pathlib import Path
 
 from app.services.pipeline import CommercePipeline
+from app.services.jcrew_parser import JCrewPlpParser
+from app.services.effulgent_parser import EffulgentParser
+from app.services.compression import MarkdownCompressor
 
 
 def parse_args() -> argparse.Namespace:
@@ -14,13 +17,13 @@ def parse_args() -> argparse.Namespace:
         "--source",
         type=Path,
         default=Path("data/jcrew_mens_sweaters.html"),
-        help="Path to the saved J.Crew PLP HTML snapshot.",
+        help="Path to the saved source snapshot (HTML or JS).",
     )
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("data/commerce.txt"),
-        help="Destination markdown file (defaults to data/commerce.txt).",
+        default=Path("data/commerce_jcrew.txt"),
+        help="Destination markdown file (defaults to data/commerce_jcrew.txt).",
     )
     parser.add_argument(
         "--title",
@@ -38,7 +41,10 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
-    pipeline = CommercePipeline()
+    parser = JCrewPlpParser()
+    if args.source.suffix == ".js":
+        parser = EffulgentParser()
+    pipeline = CommercePipeline(parser=parser, compressor=MarkdownCompressor())
 
     markdown = pipeline.write_markdown(
         args.source,

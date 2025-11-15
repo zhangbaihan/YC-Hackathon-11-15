@@ -10,6 +10,7 @@ from fastapi.responses import FileResponse, PlainTextResponse
 from app.schemas import FileIngestionRequest, ProcessedResponse
 from app.services import (
     CommercePipeline,
+    EffulgentParser,
     FileIngestor,
     JCrewPlpParser,
     MarkdownCompressor,
@@ -17,9 +18,9 @@ from app.services import (
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
-JCREW_SOURCE_HTML = DATA_DIR / "jcrew_mens_sweaters.html"
-COMMERCE_TXT_PATH = DATA_DIR / "commerce.txt"
-COMMERCE_TITLE = "J.Crew men sweaters"
+
+JCREW_COMMERCE_PATH = DATA_DIR / "commerce_jcrew.txt"
+COZY_COMMERCE_PATH = DATA_DIR / "commerce_cozy_knits.txt"
 
 app = FastAPI(
     title="commerce.txt",
@@ -32,7 +33,6 @@ app = FastAPI(
 
 _ingestor = FileIngestor(base_dir=PROJECT_ROOT)
 _compressor = MarkdownCompressor()
-_pipeline = CommercePipeline(parser=JCrewPlpParser(), compressor=_compressor)
 
 
 @app.get("/health")
@@ -53,40 +53,30 @@ def process_from_file(payload: FileIngestionRequest) -> ProcessedResponse:
     return ProcessedResponse(markdown=markdown, items=products)
 
 
-def _ensure_commerce_markdown() -> str:
-    try:
-        return _build_commerce_markdown()
-    except FileNotFoundError:
-        if COMMERCE_TXT_PATH.exists():
-            return COMMERCE_TXT_PATH.read_text(encoding="utf-8")
-        raise
+def _read_markdown(path: Path) -> str:
+    if not path.exists():
+        raise FileNotFoundError(path)
+    return path.read_text(encoding="utf-8")
 
 
-def _build_commerce_markdown() -> str:
-    if not JCREW_SOURCE_HTML.exists():
-        raise FileNotFoundError(JCREW_SOURCE_HTML)
-    return _pipeline.write_markdown(
-        JCREW_SOURCE_HTML, COMMERCE_TXT_PATH, title=COMMERCE_TITLE
-    )
+def _ensure_jcrew_markdown() -> str:
+    return _read_markdown(JCREW_COMMERCE_PATH)
+
+
+def _ensure_cozy_markdown() -> str:
+    return _read_markdown(COZY_COMMERCE_PATH)
 
 
 @app.on_event("startup")
 def initialize_commerce_txt() -> None:  # pragma: no cover - integration side effect
-    try:
-        _ensure_commerce_markdown()
-    except Exception as exc:
-        # Surface startup issues in logs without failing healthcheck.
-        print(f"commerce.txt generation skipped: {exc}")
+    for path in (JCREW_COMMERCE_PATH, COZY_COMMERCE_PATH):
+        if not path.exists():
+            print(f"commerce artifact missing: {path}")
 
 
-@app.get(
-    "/commerce.txt",
-    response_class=PlainTextResponse,
-    include_in_schema=False,
-)
-def serve_commerce_txt() -> PlainTextResponse:
+def _serve_markdown(builder) -> PlainTextResponse:
     try:
-        markdown = _ensure_commerce_markdown()
+        markdown = builder()
     except FileNotFoundError as exc:
         raise HTTPException(status_code=404, detail=str(exc)) from exc
     except ValueError as exc:
@@ -97,6 +87,24 @@ def serve_commerce_txt() -> PlainTextResponse:
         media_type="text/markdown; charset=utf-8",
         headers={"Cache-Control": "no-cache"},
     )
+
+
+@app.get(
+    "/jcrew/commerce.txt",
+    response_class=PlainTextResponse,
+    include_in_schema=False,
+)
+def serve_jcrew_txt() -> PlainTextResponse:
+    return _serve_markdown(_ensure_jcrew_markdown)
+
+
+@app.get(
+    "/cozyknits/commerce.txt",
+    response_class=PlainTextResponse,
+    include_in_schema=False,
+)
+def serve_cozy_knits_txt() -> PlainTextResponse:
+    return _serve_markdown(_ensure_cozy_markdown)
 
 
 @app.get("/robots.txt", include_in_schema=False)

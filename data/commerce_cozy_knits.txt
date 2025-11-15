@@ -1,0 +1,316 @@
+## Cozy Knits Co. catalog
+
+1. [Classic Crew Neck Cashmere](https://effulgent-kataifi-4fc56b.netlify.app/#product-1) — USD 129.99
+   - Luxuriously soft 100% cashmere crew neck sweater. Perfect for layering or wearing solo.
+   - tags: crew neck, navy, charcoal, burgundy, camel
+   - meta: rating: 4.8, reviews: 124
+
+2. [Cable Knit Wool Pullover](https://effulgent-kataifi-4fc56b.netlify.app/#product-2) — USD 89.99
+   - Traditional cable knit pattern in premium merino wool. Timeless style meets comfort.
+   - tags: cable knit, cream, forest green, navy, rust
+   - meta: rating: 4.7, reviews: 98
+
+3. [Merino V-Neck Essential](https://effulgent-kataifi-4fc56b.netlify.app/#product-3) — USD 74.99
+   - Versatile v-neck sweater in soft merino wool. A wardrobe staple for any season.
+   - tags: v-neck, black, gray, navy, wine
+   - meta: rating: 4.6, reviews: 156
+
+4. [Turtleneck Ribbed Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-4) — USD 94.99
+   - Sophisticated turtleneck with ribbed texture. Perfect for cold weather styling.
+   - tags: turtleneck, black, charcoal, oatmeal, navy
+   - meta: rating: 4.9, reviews: 87
+
+5. [Quarter Zip Athletic Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-5) — USD 69.99
+   - Modern quarter zip design with moisture-wicking properties. Athletic fit.
+   - tags: quarter zip, navy, gray, black, olive
+   - meta: rating: 4.5, reviews: 203
+
+6. [Chunky Knit Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-6) — USD 109.99
+   - Cozy oversized cardigan with shawl collar. Perfect for lounging.
+   - tags: cardigan, cream, charcoal, taupe, navy
+   - meta: rating: 4.8, reviews: 142
+
+7. [Lightweight Cotton Crew](https://effulgent-kataifi-4fc56b.netlify.app/#product-7) — USD 54.99
+   - Breathable cotton blend perfect for spring and summer layering.
+   - tags: crew neck, white, light blue, mint, pink
+   - meta: rating: 4.4, reviews: 176
+
+8. [Alpaca Blend Turtleneck](https://effulgent-kataifi-4fc56b.netlify.app/#product-8) — USD 139.99
+   - Luxurious alpaca and wool blend. Incredibly soft and warm.
+   - tags: turtleneck, camel, charcoal, burgundy, navy
+   - meta: rating: 4.9, reviews: 68
+
+9. [Fair Isle Pattern Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-9) — USD 84.99
+   - Traditional Nordic fair isle pattern. Perfect for the holidays.
+   - tags: crew neck, navy/red, gray/blue, black/white, green/cream
+   - meta: rating: 4.7, reviews: 112
+
+10. [Textured Henley Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-10) — USD 79.99
+   - Casual henley style with textured knit. Button front detail.
+   - tags: henley, navy, gray, olive, burgundy
+   - meta: rating: 4.6, reviews: 94
+
+11. [Slim Fit Merino Crew](https://effulgent-kataifi-4fc56b.netlify.app/#product-11) — USD 89.99
+   - Modern slim fit in premium merino wool. Tailored silhouette.
+   - tags: crew neck, black, navy, charcoal, wine
+   - meta: rating: 4.8, reviews: 167
+
+12. [Fisherman's Rib Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-12) — USD 99.99
+   - Classic fisherman's rib knit. Durable and timelessly stylish.
+   - tags: cable knit, cream, navy, charcoal, forest
+   - meta: rating: 4.7, reviews: 89
+
+13. [Raglan Sleeve Pullover](https://effulgent-kataifi-4fc56b.netlify.app/#product-13) — USD 64.99
+   - Sporty raglan sleeves with contrast details. Relaxed fit.
+   - tags: crew neck, gray/navy, cream/rust, black/gray, olive/brown
+   - meta: rating: 4.5, reviews: 134
+
+14. [Cashmere Zip Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-14) — USD 159.99
+   - Premium cashmere zip-up cardigan. Ultimate luxury and comfort.
+   - tags: cardigan, navy, camel, charcoal, black
+   - meta: rating: 4.9, reviews: 73
+
+15. [Waffle Knit Thermal](https://effulgent-kataifi-4fc56b.netlify.app/#product-15) — USD 59.99
+   - Cozy waffle knit texture. Perfect base layer or standalone piece.
+   - tags: crew neck, gray, navy, black, olive
+   - meta: rating: 4.6, reviews: 198
+
+16. [Mock Neck Performance](https://effulgent-kataifi-4fc56b.netlify.app/#product-16) — USD 74.99
+   - Athletic mock neck with stretch fabric. Great for active wear.
+   - tags: mock neck, black, navy, gray, burgundy
+   - meta: rating: 4.7, reviews: 145
+
+17. [Shawl Collar Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-17) — USD 119.99
+   - Elegant shawl collar cardigan with button closure. Sophisticated style.
+   - tags: cardigan, charcoal, navy, camel, burgundy
+   - meta: rating: 4.8, reviews: 91
+
+18. [Striped Breton Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-18) — USD 69.99
+   - Classic French Breton stripes. Nautical-inspired style.
+   - tags: crew neck, navy/white, black/gray, navy/red, green/cream
+   - meta: rating: 4.6, reviews: 128
+
+19. [Mohair Blend Pullover](https://effulgent-kataifi-4fc56b.netlify.app/#product-19) — USD 94.99
+   - Soft mohair blend with subtle sheen. Elegant and warm.
+   - tags: crew neck, cream, gray, navy, wine
+   - meta: rating: 4.7, reviews: 76
+
+20. [Aran Cable Knit Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-20) — USD 104.99
+   - Traditional Irish Aran pattern. Handcrafted look and feel.
+   - tags: cable knit, cream, navy, charcoal, forest green
+   - meta: rating: 4.9, reviews: 103
+
+21. [Half Zip Tech Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-21) — USD 79.99
+   - Technical fabric with half zip. Moisture-wicking and stretchy.
+   - tags: quarter zip, black, navy, gray, olive
+   - meta: rating: 4.6, reviews: 187
+
+22. [Colorblock Crewneck](https://effulgent-kataifi-4fc56b.netlify.app/#product-22) — USD 64.99
+   - Modern colorblock design. Bold and contemporary style.
+   - tags: crew neck, navy/gray, black/burgundy, green/tan, blue/white
+   - meta: rating: 4.5, reviews: 142
+
+23. [Lambswool V-Neck](https://effulgent-kataifi-4fc56b.netlify.app/#product-23) — USD 84.99
+   - Soft lambswool in classic v-neck style. Perfect for layering.
+   - tags: v-neck, navy, gray, black, burgundy
+   - meta: rating: 4.7, reviews: 118
+
+24. [Oversized Turtleneck](https://effulgent-kataifi-4fc56b.netlify.app/#product-24) — USD 89.99
+   - Relaxed oversized fit with cozy turtleneck. Effortlessly stylish.
+   - tags: turtleneck, oatmeal, charcoal, black, cream
+   - meta: rating: 4.8, reviews: 95
+
+25. [Nordic Pattern Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-25) — USD 99.99
+   - Scandinavian-inspired pattern with button closure. Unique design.
+   - tags: cardigan, navy/white, gray/red, black/gray, green/cream
+   - meta: rating: 4.7, reviews: 84
+
+26. [Bamboo Blend Crew](https://effulgent-kataifi-4fc56b.netlify.app/#product-26) — USD 69.99
+   - Eco-friendly bamboo blend. Incredibly soft and sustainable.
+   - tags: crew neck, gray, navy, olive, black
+   - meta: rating: 4.6, reviews: 152
+
+27. [Honeycomb Knit Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-27) — USD 79.99
+   - Textured honeycomb pattern. Unique and eye-catching.
+   - tags: crew neck, cream, navy, gray, rust
+   - meta: rating: 4.7, reviews: 107
+
+28. [Zip Mock Neck Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-28) — USD 89.99
+   - Modern mock neck with full zip. Versatile layering piece.
+   - tags: mock neck, black, navy, charcoal, burgundy
+   - meta: rating: 4.8, reviews: 129
+
+29. [Donegal Tweed Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-29) — USD 114.99
+   - Classic Donegal tweed wool. Speckled texture and heritage style.
+   - tags: crew neck, gray, navy, brown, green
+   - meta: rating: 4.9, reviews: 88
+
+30. [Essential Cotton V-Neck](https://effulgent-kataifi-4fc56b.netlify.app/#product-30) — USD 49.99
+   - Affordable cotton v-neck. Perfect everyday basic.
+   - tags: v-neck, white, black, navy, gray
+   - meta: rating: 4.5, reviews: 234
+
+31. [Jacquard Pattern Pullover](https://effulgent-kataifi-4fc56b.netlify.app/#product-31) — USD 94.99
+   - Intricate jacquard weave pattern. Artistic and sophisticated.
+   - tags: crew neck, navy/gray, black/wine, green/tan, blue/cream
+   - meta: rating: 4.7, reviews: 96
+
+32. [Thermal Henley Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-32) — USD 69.99
+   - Cozy thermal henley with button placket. Casual comfort.
+   - tags: henley, gray, navy, black, olive
+   - meta: rating: 4.6, reviews: 163
+
+33. [Merino Turtleneck](https://effulgent-kataifi-4fc56b.netlify.app/#product-33) — USD 99.99
+   - Fine merino wool turtleneck. Refined and elegant.
+   - tags: turtleneck, black, navy, charcoal, wine
+   - meta: rating: 4.8, reviews: 112
+
+34. [Button Shoulder Crew](https://effulgent-kataifi-4fc56b.netlify.app/#product-34) — USD 79.99
+   - Unique button detail at shoulder. Modern military-inspired design.
+   - tags: crew neck, navy, charcoal, olive, black
+   - meta: rating: 4.7, reviews: 89
+
+35. [Zip-Up Hoodie Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-35) — USD 84.99
+   - Sweater hoodie hybrid with full zip. Casual and comfortable.
+   - tags: hoodie, gray, navy, black, olive
+   - meta: rating: 4.6, reviews: 178
+
+36. [Cashmere Blend Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-36) — USD 129.99
+   - Luxurious cashmere blend cardigan. Soft and sophisticated.
+   - tags: cardigan, camel, navy, charcoal, burgundy
+   - meta: rating: 4.9, reviews: 104
+
+37. [Pique Knit Polo Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-37) — USD 74.99
+   - Polo-style sweater in pique knit. Smart casual essential.
+   - tags: polo, navy, gray, black, burgundy
+   - meta: rating: 4.6, reviews: 127
+
+38. [Birdseye Knit Crew](https://effulgent-kataifi-4fc56b.netlify.app/#product-38) — USD 69.99
+   - Subtle birdseye texture. Classic and versatile.
+   - tags: crew neck, navy, gray, black, wine
+   - meta: rating: 4.5, reviews: 156
+
+39. [Herringbone Pattern Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-39) — USD 89.99
+   - Classic herringbone weave. Timeless pattern.
+   - tags: crew neck, gray, navy, brown, black
+   - meta: rating: 4.7, reviews: 98
+
+40. [Contrast Trim Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-40) — USD 94.99
+   - Cardigan with contrast trim detail. Sophisticated touch.
+   - tags: cardigan, navy/gray, black/white, gray/navy, burgundy/gray
+   - meta: rating: 4.8, reviews: 86
+
+41. [Supima Cotton Crew](https://effulgent-kataifi-4fc56b.netlify.app/#product-41) — USD 59.99
+   - Premium Supima cotton. Exceptionally soft and durable.
+   - tags: crew neck, white, gray, navy, black
+   - meta: rating: 4.6, reviews: 201
+
+42. [Melange Knit Pullover](https://effulgent-kataifi-4fc56b.netlify.app/#product-42) — USD 74.99
+   - Heathered melange knit. Modern marled texture.
+   - tags: crew neck, gray, navy, charcoal, olive
+   - meta: rating: 4.7, reviews: 134
+
+43. [Fuzzy Fleece Pullover](https://effulgent-kataifi-4fc56b.netlify.app/#product-43) — USD 64.99
+   - Ultra-soft fleece pullover. Maximum coziness.
+   - tags: crew neck, oatmeal, gray, navy, black
+   - meta: rating: 4.8, reviews: 167
+
+44. [Elbow Patch Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-44) — USD 89.99
+   - Classic elbow patch detail. Professorial style.
+   - tags: crew neck, navy, charcoal, camel, forest
+   - meta: rating: 4.7, reviews: 92
+
+45. [Basketweave V-Neck](https://effulgent-kataifi-4fc56b.netlify.app/#product-45) — USD 79.99
+   - Textured basketweave pattern. Unique visual interest.
+   - tags: v-neck, navy, gray, black, burgundy
+   - meta: rating: 4.6, reviews: 108
+
+46. [Rollneck Fisherman Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-46) — USD 104.99
+   - Traditional fisherman sweater with rollneck. Nautical heritage.
+   - tags: turtleneck, cream, navy, charcoal, forest
+   - meta: rating: 4.9, reviews: 78
+
+47. [Gradient Dye Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-47) — USD 79.99
+   - Ombre gradient effect. Contemporary and artistic.
+   - tags: crew neck, gray to black, navy to blue, burgundy to pink, green to teal
+   - meta: rating: 4.5, reviews: 143
+
+48. [Performance Mock Neck](https://effulgent-kataifi-4fc56b.netlify.app/#product-48) — USD 84.99
+   - Technical performance fabric. Great for active lifestyles.
+   - tags: mock neck, black, navy, gray, olive
+   - meta: rating: 4.7, reviews: 156
+
+49. [Lambswool Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-49) — USD 99.99
+   - Soft lambswool cardigan with button front. Classic style.
+   - tags: cardigan, navy, charcoal, camel, burgundy
+   - meta: rating: 4.8, reviews: 113
+
+50. [Seed Stitch Pullover](https://effulgent-kataifi-4fc56b.netlify.app/#product-50) — USD 74.99
+   - Textured seed stitch knit. Subtle and refined.
+   - tags: crew neck, cream, navy, gray, olive
+   - meta: rating: 4.6, reviews: 124
+
+51. [Zip Neck Pullover](https://effulgent-kataifi-4fc56b.netlify.app/#product-51) — USD 69.99
+   - Partial zip neck detail. Easy on and off.
+   - tags: quarter zip, navy, gray, black, olive
+   - meta: rating: 4.5, reviews: 189
+
+52. [Argyle Pattern Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-52) — USD 84.99
+   - Classic argyle diamond pattern. Preppy sophistication.
+   - tags: v-neck, navy/gray, burgundy/cream, green/tan, black/gray
+   - meta: rating: 4.7, reviews: 97
+
+53. [Brushed Cotton Henley](https://effulgent-kataifi-4fc56b.netlify.app/#product-53) — USD 59.99
+   - Soft brushed cotton henley. Comfortable and casual.
+   - tags: henley, gray, navy, black, burgundy
+   - meta: rating: 4.6, reviews: 172
+
+54. [Double Layer Turtleneck](https://effulgent-kataifi-4fc56b.netlify.app/#product-54) — USD 89.99
+   - Luxurious double layer turtleneck. Extra warm and cozy.
+   - tags: turtleneck, black, charcoal, navy, cream
+   - meta: rating: 4.8, reviews: 105
+
+55. [Paneled Crew Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-55) — USD 79.99
+   - Modern panel construction. Contemporary design.
+   - tags: crew neck, navy/gray, black/charcoal, olive/tan, wine/gray
+   - meta: rating: 4.6, reviews: 118
+
+56. [Yak Wool Blend Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-56) — USD 119.99
+   - Rare yak wool blend. Exceptionally warm and soft.
+   - tags: crew neck, charcoal, navy, taupe, black
+   - meta: rating: 4.9, reviews: 67
+
+57. [Hooded Zip Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-57) — USD 94.99
+   - Casual hooded cardigan with zip closure. Relaxed style.
+   - tags: hoodie, gray, navy, black, olive
+   - meta: rating: 4.7, reviews: 154
+
+58. [Chunky Cable Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-58) — USD 109.99
+   - Oversized cable knit cardigan. Statement piece.
+   - tags: cardigan, cream, charcoal, navy, rust
+   - meta: rating: 4.8, reviews: 89
+
+59. [Silk Blend Crew Neck](https://effulgent-kataifi-4fc56b.netlify.app/#product-59) — USD 139.99
+   - Luxurious silk and cotton blend. Lustrous and elegant.
+   - tags: crew neck, navy, charcoal, burgundy, black
+   - meta: rating: 4.9, reviews: 71
+
+60. [Outdoor Pullover Hoodie](https://effulgent-kataifi-4fc56b.netlify.app/#product-60) — USD 79.99
+   - Durable outdoor hoodie sweater. Adventure-ready.
+   - tags: hoodie, olive, navy, black, gray
+   - meta: rating: 4.7, reviews: 162
+
+61. [Vintage Wash Sweater](https://effulgent-kataifi-4fc56b.netlify.app/#product-61) — USD 74.99
+   - Pre-washed vintage look. Soft and lived-in feel.
+   - tags: crew neck, faded navy, washed gray, dusty rose, sage green
+   - meta: rating: 4.6, reviews: 136
+
+62. [Textured Mock Turtleneck](https://effulgent-kataifi-4fc56b.netlify.app/#product-62) — USD 84.99
+   - Subtle texture with mock turtleneck. Modern and sleek.
+   - tags: mock neck, black, navy, charcoal, wine
+   - meta: rating: 4.7, reviews: 112
+
+63. [Heritage Shawl Cardigan](https://effulgent-kataifi-4fc56b.netlify.app/#product-63) — USD 129.99
+   - Classic heritage-style shawl cardigan. Timeless elegance.
+   - tags: cardigan, navy, charcoal, camel, forest green
+   - meta: rating: 4.9, reviews: 94
