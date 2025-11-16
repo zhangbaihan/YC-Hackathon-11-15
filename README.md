@@ -17,9 +17,7 @@ FastAPI service that ingests product data from structured files (JSON to start, 
 - `POST /process/from-file` — Accepts a JSON file path on disk, loads validated products, and responds with a markdown summary alongside the normalized data.
 - `GET /jcrew/commerce.txt` — Streams the cached J.Crew markdown artifact.
 - `GET /cozyknits/commerce.txt` — Streams the cached Cozy Knits markdown artifact.
-- `GET /jcrew/generate` — Runs the parser/compressor pipeline to rebuild the J.Crew artifact and renders the result in-browser.
-- `GET /cozyknits/generate` — Same generator view for the Cozy Knits snapshot.
-- `GET /generate` — HTML control panel that lets you pick a parser, tweak source/output paths, and rebuild any supported site snapshot.
+- `GET /generate?url=…` — Provide a supported product-listing URL (currently `jcrew.com` or the Cozy Knits demo at `mockup-merchant.vercel.app`) and get the generated `commerce.txt` as a plaintext response. Visiting `/generate` without a query parameter shows a tiny form to submit the URL.
 
 Example request body:
 
@@ -68,8 +66,8 @@ Example response excerpt:
 - `uv sync --group dev` — install runtime + dev dependencies into `.venv` (or just run `uv sync` if you already have dev dependencies enabled globally).
 - `uv run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000` — launch the API with hot reload.
 - `uv run python scripts/generate_commerce.py -- --limit 10` — regenerate `data/commerce_jcrew.txt` (pass script args after `--`; include `--source data/assets/mockup_app_page.js --output data/commerce_cozy_knits.txt` for the Cozy Knits snapshot).
-- Each `/jcrew/commerce.txt` and `/cozyknits/commerce.txt` response simply streams the existing markdown artifact from `data/`. Hit `/jcrew/generate` or `/cozyknits/generate` (or run the script above) whenever you refresh the upstream snapshot to rewrite the cached file.
-- Want a UI instead of curl/scripts? Open `/generate` in your browser, pick a site (or provide custom paths), and submit the form to rebuild the artifact inline.
+- Each `/jcrew/commerce.txt` and `/cozyknits/commerce.txt` response simply streams the existing markdown artifact from `data/`. Run the script above whenever you refresh the upstream snapshot to rewrite the cached file.
+- Want a lightweight UI? Visit `/generate`, paste a supported product URL, and the API fetches/parses it on the fly and streams the resulting markdown back as plain text.
 - `uv run pytest` — execute the pytest suite without manually activating the venv.
 
 ## Working with the J.Crew parser

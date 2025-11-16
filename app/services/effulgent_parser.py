@@ -28,6 +28,11 @@ class EffulgentParser:
         """Parse the compiled JS bundle that contains the product array."""
 
         text = Path(path).read_text(encoding="utf-8")
+        return self.parse_js_text(text, limit=limit)
+
+    def parse_js_text(self, text: str, limit: int | None = None) -> List[Product]:
+        """Parse the JS payload directly from an in-memory string."""
+
         entries = self._extract_entries(text)
         products = [self._to_product(entry) for entry in entries]
         if limit is not None:
